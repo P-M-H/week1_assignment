@@ -3,12 +3,15 @@
 }
 
 body {
-	background-image: url("https://i.imgur.com/1Rg03go.png");
-	background-repeat: repeat;
+	background-image: url("https://i1.wp.com/www.stevensonadvertising.com/wp-content/uploads/2013/09/light-abstract-geometric-background.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+	background-size:cover;
 	background-color: rgb(220, 223, 226);
 	font-family: 'Ubuntu', sans-serif;
-	border-bottom: 5px solid rgb(130, 151, 201);
-  	border-top: 5px solid rgb(130, 151, 201);
+	border-bottom: 10px solid rgb(179, 182, 188);
+  	border-top: 10px solid rgb(179, 182, 188);
   	padding: 50px;
   	padding-top: 50px;
   	margin: 30px;
@@ -54,7 +57,7 @@ img {
 
 hr {
 	margin: 50px;
-	border: 1px solid rgb(190, 207, 247);
+	border: 2px solid rgb(143, 144, 147);
 }
 
 .hr_left {
